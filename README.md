@@ -9,9 +9,12 @@ App hecha con Vulforia. Una aplicación para reconocer formulas químicas y visu
 
 ## Instalacion
 
-1. Descarga el archivo APK desde [Enlace de descarga del APK](RealidadQuimica3D.apk).
+1. Descarga el archivo APK desde [Enlace de descarga del APK](https://github.com/MrAntonio7/RealidadQuimica3D/releases/download/1.0/RealidadQuimica3D.apk).
 2. Habilita la opción "Fuentes desconocidas" en la configuración de seguridad de tu dispositivo.
 3. Instala la APK descargada.
+
+### Release 1.0
+`https://github.com/MrAntonio7/RealidadQuimica3D/releases/download/1.0/RealidadQuimica3D.apk`
 
 
 ## Uso
@@ -41,3 +44,6 @@ App hecha con Vulforia. Una aplicación para reconocer formulas químicas y visu
 
 ## Imagenes incluidas
 En la carpeta Imagenes moleculas estan disponibles todas las imagenes para imprimir y jugar con ellas!
+
+## Release 1.0
+`https://github.com/MrAntonio7/RealidadQuimica3D/releases/download/1.0/RealidadQuimica3D.apk`
