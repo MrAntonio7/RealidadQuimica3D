@@ -18,16 +18,25 @@ App hecha con Vulforia. Una aplicación para reconocer formulas químicas y visu
 1. Abre la aplicación desde el menú de aplicaciones.
 2. Selecciona "Jugar" en el menú principal.
 3. ¡Disfruta del juego!
+   
 ![Captura de Pantalla 1](/screenshots/screenshot1.png)
 
+
 ## Funciones
-1. Juego
+1. Juego. Escanea la imagen de la molécula para añadirla a tu colección. También podremos ver un pequeña descripción y verla en 3D!
+   
 ![Captura de Pantalla 1](/screenshots/screenshot4.png)
+
 2. Coleccion. Cada vez que consigas una moléculas nueva se quedará guardada en nuestra colección, estos datos se almecenan en el dispositvo.
+   
 ![Captura de Pantalla 1](/screenshots/screenshot2.png)
+
 3. Instrucciones. Tutorial de como se componen las imágenes de las moléculas.
-![Captura de Pantalla 1](/screenshots/screenshot3.png)
+   
+![Captura de Pantalla 1](/screenshots/screensho3.png)
+
 4. Soluciones. Todas las moleéculas que incluye la versión.
+   
 ![Captura de Pantalla 1](/screenshots/screenshot5.png)
 
 ## Imagenes incluidas
