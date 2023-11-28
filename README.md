@@ -44,6 +44,3 @@ App hecha con Vulforia. Una aplicación para reconocer formulas químicas y visu
 
 ## Imagenes incluidas
 En la carpeta Imagenes moleculas estan disponibles todas las imagenes para imprimir y jugar con ellas!
-
-## Release 1.0
-`https://github.com/MrAntonio7/RealidadQuimica3D/releases/download/1.0/RealidadQuimica3D.apk`
