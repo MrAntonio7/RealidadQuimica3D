@@ -42,5 +42,7 @@ App hecha con Vulforia. Una aplicación para reconocer formulas químicas y visu
    
 ![Captura de Pantalla 1](/screenshots/screenshot5.png)
 
+5. Sistema de guardado. El juego almacena en el disposito tu colección.
+
 ## Imagenes incluidas
 En la carpeta Imagenes moleculas estan disponibles todas las imagenes para imprimir y jugar con ellas!
